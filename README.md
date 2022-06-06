@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Adam Kiefer
-- 👀 I’m interested in find a position in data analytics. 
-- 🌱 I’m currently learning SQL, Tableau, Power Bi and R
+- 👀 I’m interested in finding a position in data analytics. 
+- 🌱 I’m currently learning SQL, Tableau, Power Bi and Python
 - 💞️ I’m looking to collaborate on data science related projects.
 - 📫 You can reach me at kieferriley@gmail.com
 
